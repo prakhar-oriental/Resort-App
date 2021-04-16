@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent_App</string>
+    <string name="restaurent_app">Resort App</string>
+    <string name="buttona">Indore</string>
+    <string name="buttonb">Bhopal</string>
+    <string name="buttonc">Mumbai</string>
+    <string name="buttond">Delhi</string>
+    <string name="mum_to_pune">mum to pune</string>
+</resources>
